@@ -1,1 +1,1 @@
-# Phishing-website-detection-using-ml-
+This project is a machine learning-powered phishing website detection system developed using Python and Streamlit. It analyzes website URLs and predicts whether a website is legitimate or phishing based on extracted features and trained classification models.
